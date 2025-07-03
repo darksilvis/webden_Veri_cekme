@@ -1,0 +1,1 @@
+python requests ve BeautifulSoap kütüphanesini anlamak için IMDB üzerinden en sevilen 250 filmi çektim sonrasında da kullanıcıdan input alarak alınan inputun üzerindeki rate sahip olan filmleri yazdırdım. 
